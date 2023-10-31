@@ -8,5 +8,9 @@
 header {
     background-image: url(./imagens_vertigo/bg-moble.png);
     background-size: cover;
-
+    height: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
